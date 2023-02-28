@@ -1,4 +1,4 @@
-public class Atividade1 {
+public class RecursaoCrescente {
     
     public static void recursaoCrescente(int numero) {
         if(numero >= 0) {
