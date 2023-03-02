@@ -1,4 +1,4 @@
-public class DrescenteDecrescente {
+public class CrescenteDecrescente {
     
     public static void crescenteDecrescente(int numero){
         crescenteDecrescente(numero, 0);
